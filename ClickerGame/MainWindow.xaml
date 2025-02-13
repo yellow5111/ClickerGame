@@ -1,0 +1,13 @@
+﻿<Window x:Class="WpfClickerGame.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Clicker Game" Height="400" Width="400">
+    <Grid x:Name="MainGrid" Background="MediumAquamarine">
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+            <Label x:Name="ScoreLabel" Content="SCORE = 0" FontSize="20" HorizontalAlignment="Center" />
+            <Label x:Name="MultiplierLabel" Content="AUTOMATIC SCORE = +0 /SEC" FontSize="16" HorizontalAlignment="Center" />
+            <Button x:Name="ClickButton" Content="CLICKER" FontSize="20" Click="ClickButton_Click" Width="200" Height="50" Margin="10" />
+            <Button x:Name="UpgradeButton" Content="UPGRADE AUTO SCORE (100)" FontSize="14" Click="UpgradeButton_Click" Width="200" Height="50" Margin="10" />
+        </StackPanel>
+    </Grid>
+</Window>

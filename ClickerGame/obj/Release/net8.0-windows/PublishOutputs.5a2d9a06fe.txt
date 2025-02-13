@@ -1,0 +1,6 @@
+H:\C# Projects\ClickerGame\ClickerGame\bin\Release\net8.0-windows\publish\ClickerGame.exe
+H:\C# Projects\ClickerGame\ClickerGame\bin\Release\net8.0-windows\publish\ClickerGame.dll
+H:\C# Projects\ClickerGame\ClickerGame\bin\Release\net8.0-windows\publish\ClickerGame.deps.json
+H:\C# Projects\ClickerGame\ClickerGame\bin\Release\net8.0-windows\publish\ClickerGame.runtimeconfig.json
+H:\C# Projects\ClickerGame\ClickerGame\bin\Release\net8.0-windows\publish\ClickerGame.pdb
+H:\C# Projects\ClickerGame\ClickerGame\bin\Release\net8.0-windows\publish\Steamworks.NET.dll
